@@ -10,6 +10,7 @@ The approach converts price signals into complex analytic signals and uses phase
 If you use this work, please cite:
 
 Author: Manju S Totad and Vinayak K H 
+
 Title: Hilbert Transform Based High-Frequency Trading Strategy  
 Year: 2026  
 
